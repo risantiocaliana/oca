@@ -1,0 +1,1 @@
+alert("belajar script javascript");
